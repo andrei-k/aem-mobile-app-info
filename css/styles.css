@@ -1,0 +1,15 @@
+body {
+	font: 11px/14px 'Arial', sans-serif;
+	background-color: #fff;
+	color: #000;
+}
+
+.container {
+	margin: 15px auto;
+}
+
+.string { color: green; }
+.number { color: darkorange; }
+.boolean { color: blue; }
+.null { color: magenta; }
+.key { color: red; }
